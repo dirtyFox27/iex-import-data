@@ -1,2 +1,9 @@
-print('This is a test')
-print('Make some modifications from the farm')
+def test_function():
+    return 'This is a test'
+
+
+def fake_function():
+    return 'Ouuuh I am a fake function'
+
+def adding(a,b):
+    return a+b
